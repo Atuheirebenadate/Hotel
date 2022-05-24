@@ -1,0 +1,76 @@
+ body{
+     background-color: rgb(184, 208, 230);
+    
+ }
+.nav{
+text-align: left;
+margin-left: 50%;
+ }
+.nav a{
+    float: left;
+    color: rgb(2, 2, 5);
+    text-decoration: none;
+      margin-left: 8%;  
+}
+.nav a:hoover{
+    color: blueviolet;
+}
+.one1{
+    display: flex;
+}
+.two{
+    margin-top: 180px;
+    text-align: center;
+
+}
+.three{
+    display: flex;
+    justify-content: space-around;
+}
+.corner{
+    display: flex;
+    justify-content: space-around;
+}
+.text{
+    text-align: center;
+}
+.container2{
+    display: flex;
+}
+.text3{
+    size: 10cm;
+height: 10%;
+margin-top: 10%;
+margin-left: 50%;
+}
+.container2{
+    justify-content: space-around;
+
+}
+.text1{
+    margin-left: 220%;
+}
+ .textA{
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-around;
+} 
+.foot{
+    background-color: black;
+    height: 80%;
+}
+.text3{
+    margin-right: 0%;
+}
+
+
+
+
+
+
+
+    
+
+
+
+    
